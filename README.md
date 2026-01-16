@@ -49,7 +49,7 @@ Fine-tuning Gemma-2-2b-it for structured reasoning with `<reasoning>` and `<answ
 ### 4. 🚀 Capstone Project - NLP Social Matching
 **Directory:** [`capstone_project/`](./capstone_project/)
 
-AI-powered social matching application using NLP techniques for user compatibility analysis.
+AI-powered social matching application using NLP techniques.
 
 ---
 
