@@ -36,6 +36,11 @@ GPT-2 fine-tuning for constrained poetry generation using keyword prompts.
 
 BERT fine-tuning on SQuAD dataset for extractive question answering.
 
+#### DAAD Event - Human-Centred AI Hackathon
+**Directory:** [`daad_event/`](./daad_event/)
+
+Participation in DAAD Ta'ziz "Human-Centred AI" Conference and Hackathon (Dec 10-11, 2025).
+
 ### 3. 🏆 Competition - Google Tunix Hack
 **Directory:** [`tunix_hack/`](./tunix_hack/)
 
@@ -62,6 +67,6 @@ AI-powered social matching application using NLP techniques for user compatibili
 | Deliverable | Component | Status |
 |-------------|-----------|--------|
 | Paper Presentation | Research paper presentation | ✅ Completed |
-| Course Activities | Poetry Slam, Tutorial | ✅ Completed |
+| Course Activities | Poetry Slam, Tutorial, DAAD Event | ✅ Completed |
 | Competition | Google Tunix Hack | ✅ Completed |
 | Capstone Project | NLP Social Matching | 🔄 In Progress |
