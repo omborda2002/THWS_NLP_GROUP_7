@@ -1,0 +1,105 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Model files (large files - keep adapters, ignore base models)
+*.bin
+!training_args.bin
+*.h5
+*.onnx
+*.pt
+*.pth
+# Keep safetensors adapters (small)
+# *.safetensors
+
+# Checkpoints (can be large)
+checkpoint-*/
+!tunix_hack/notebooks/gemma-reasoning/
+
+# Training outputs
+runs/
+logs/
+*.log
+wandb/
+mlruns/
+
+# Data files (if large)
+*.csv
+*.json
+!adapter_config.json
+!tokenizer_config.json
+!special_tokens_map.json
+!tokenizer.json
+*.parquet
+*.arrow
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+.cache/
+
+# HuggingFace cache
+.huggingface/
+
+# Secrets
+*.env
+.env.*
+secrets.yaml
+secrets.json
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
