@@ -7,7 +7,7 @@
 | Om Borda | 10000722 |
 | Tulasi Rajgopal | 10001105 |
 | Marina Merzliakova | 9125112 |
-| Zaranaben Savani | TBD |
+| Zaranaben Savani | 10001007 |
 
 ## 📝 Contribution Statement
 
