@@ -103,3 +103,4 @@ secrets.json
 *.tar.gz
 *.rar
 *.7z
+tunix_hack/notebooks/gemma-reasoning/adapter_model.safetensors
